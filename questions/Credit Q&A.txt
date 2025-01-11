@@ -156,18 +156,6 @@ What are the two ways that CDS contracts can settle?
 
 If a credit event occurs, then CDS contracts can be settled either physically or on a cash basis. If the contact is settled physically, then the CDS buyer will deliver the reference asset (for example, certain eligible corporate bonds, which will obviously have a very low value) to the seller. Then the CDS seller will pay the par value in cash. To be clear, when the CDS buyer purchases the reference asset it will be at a very steep discount to par (given that a credit event has occurred, so the company is distressed), but once they deliver the assets to the CDS seller then the seller will pay par. If a contact is cash settled, then the physical delivery does not occur. Instead the CDS seller pays the difference between the par value of the reference asset and the auction settlement price. Learn more about the auction process here: https://www.investopedia.com/articles/bonds/09/what-happens-to-single-name cds.asp#credit-default-auctions
 
-Why would a client buy credit default swaps?
-
-Speculate on a credit that they think will become distressed and have a credit event
-These kinds of clients are generally distressed hedge funds
-Protect yourself from credit exposure to the company
-If you deal frequently with a company – perhaps they are a large customer of yours or you’ve extended them some kind of credit – you can mitigate your exposure to the company by buying CDS
-This way if the company ends up having a credit event you can hedge your exposure (potential losses) by just paying the CDS premium o Clients who buy CDS for this purpose are large corporations and banks
-Reduce exposure to a sector
-If you are a large fund you may have lots of exposure to a certain sector – like oil and gas – that you want to hedge
-However, you don’t want to sell your current oil and gas holdings (perhaps because they’re illiquid or you like the particular asset)
-In order to gain downside exposure to the industry, you can pick certain companies (in this example, oil and gas companies) and buy CDS against them
-This rationale will often be that of large funds – like endowments or sovereign wealth funds – who want to buy downside exposure, but can’t entirely shift their portfolio around because it’s so large 
 What are corporate bonds?
 
 Bonds issued by corporations (as the name would imply!) that generally have maturities between 1-20 years (rarely sometimes longer) that have fixed coupons. Coupons are paid semi-annually on a 30/360 day-count convention.
